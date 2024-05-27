@@ -14,7 +14,7 @@ To set up this Ecommerce App, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone 
+   git clone https://github.com/avinashverma0560/ecommerce-app-nodejs-whatsapp-cloud-api-master.git
    ```
 
 2. Navigate to the project directory:
